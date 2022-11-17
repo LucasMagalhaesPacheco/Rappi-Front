@@ -40,7 +40,7 @@ O projeto foi pensado como mobile first.
   <br />
        </td> <td align="center"><a href="https://github.com/ilenaacioli"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/104631728?v=4" width="100px;" alt=""/><br /><sub><b>Ilena Acioli dos Santos</b></sub></a>
   <br /> 
-         </td> <td align="center"><a href="https://github.com/Douggx"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/103120880?v=4" width="100px;" alt=""/><br /><sub><b>Ilena Acioli dos Santos</b></sub></a>
+         </td> <td align="center"><a href="https://github.com/Douggx"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/103120880?v=4" width="100px;" alt=""/><br /><sub><b>Douglas Henrique Ferreira Barbosa</b></sub></a>
   </tr>
 </table>
 
